@@ -733,8 +733,9 @@
 			#main .avatar img {
 				display: block;
 				margin: 0 auto;
-				border-radius: 100%;
+				border-radius: 15%;
 				box-shadow: 0 0 0 1.5em #ffffff;
+				width: 130px;
 			}
 
 			#main .avatar:before {
